@@ -1,28 +1,38 @@
-# Final Project - Belajar Dasar Pemrograman Web
+# Kabar Klaten
+**Submission: Final Project for Belajar Dasar Pemrograman Web**  
+*Course by Dicoding*
 
-This repository contains my final project submission for the **Belajar Dasar Pemrograman Web** course at **Dicoding**. The project demonstrates my understanding of fundamental web development concepts using **HTML**, **CSS**, and **JavaScript**.
+🗒️[Sertifikat Kompetensi Belajar Dasar Pemograman Web](https://www.dicoding.com/certificates/JLX14QORJX72)
 
-## Website Link
+## 🚀 About the Project
+[Kabar Klaten](https://kabar-klaten.vercel.app/) is a simple website designed to deliver news and information specifically tailored for the residents of Klaten. This project is built as part of the "Belajar Dasar Pemrograman Web" course offered by Dicoding and showcases foundational web development skills using only HTML and CSS.
 
-You can access the live version of the website here:
+## 📖 Course Description
+**Organizer:** Dicoding Indonesia  
+**Level:** Beginner
 
-[Visit the Website](https://kabar-klaten.vercel.app)
+This course introduces the basics of web development, focusing on HTML and CSS to build static websites. Students learn to structure webpages with HTML and style them using CSS.
 
+### Course Objectives
+- Understand the structure and foundation of web development.
+- Implement HTML to organize website content.
+- Use CSS to style webpages.
 
-## Features
+### Project Submission
+This website represents the culmination of the skills learned throughout the course. It serves as the final project submission, demonstrating an understanding of basic HTML and CSS.
 
-- Simple and clean website design.
-- Basic structure built with HTML and styled with CSS.
+## 🖥️ Website Features
+- **News Articles:** Displays news relevant to the Klaten community.
+- **Non-Responsive Design:** Utilizes basic HTML and CSS without responsive design features.
 
-## Known Issues
+## 🛠 Built With
+- **HTML:** For structuring the web content.
+- **CSS:** For styling the web content.
 
-- The website is **not responsive** at the moment. It is designed for desktop viewing only, and further adjustments are needed to ensure it is mobile and tablet-friendly.
-
-## Installation
-
-To run the project locally:
+## 💻 Running the Project Locally
+To set up this project locally, you can follow these steps:
 
 1. Clone the repository:
-
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/yourusername/kabar-klaten.git
+   cd kabar-klaten
