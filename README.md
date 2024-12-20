@@ -6,19 +6,13 @@ This repository contains my final project submission for the **Belajar Dasar Pem
 
 You can access the live version of the website here:
 
-[Visit the Website](https://your-website-link.com)
+[Visit the Website](https://kabar-klaten.vercel.app)
 
-## Screenshot
-
-Below is a screenshot of the website:
-
-![Website Screenshot](screenshot-link.png)
 
 ## Features
 
 - Simple and clean website design.
 - Basic structure built with HTML and styled with CSS.
-- Interactive elements powered by JavaScript.
 
 ## Known Issues
 
